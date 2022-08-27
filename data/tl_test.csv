@@ -1,0 +1,183 @@
+date,id,news_heading_eng,news_heading_swa,News type
+2022-01-11,tl8,member of parliament richard onyonka surrenders to dci in kisii,mbunge richard onyonka ajisalimisha kwa dci kisii,Local News
+2022-02-22,tl25,citizens are afraid as police continue to kill themselves,wananchi waogopa huku polisi wakiendelea kujiua,Local News
+2022-03-04,tl30,those who fail in the qualifiers find a way to save themselves,wale wanaoshindwa katika mechi za kufuzu watafute namna ya kujiokoa,Local News
+2022-03-11,tl34,manhunt : police tasting bodaboda hooliganism,msako : polisi kuonja uhuni wa bodaboda,Local News
+2022-03-22,tl38,hundreds of kerio migrants as attacks increase,mamia ya wahamiaji wa kerio huku mashambulizi yakiongezeka,Local News
+2022-04-27,tl54,barobaro explains how he benefited from free education,barobaro aeleza namna alivyonufaika na elimu bure,Local News
+2022-04-28,tl56,construction of a modern center to provide training and services for kabete agriculture to begin,ujenzi wa kituo cha kisasa cha kutoa mafunzo na huduma kwa kilimo cha kabete kuanza,Local News
+2022-05-24,tl80,the one who stole the church 's catalyst will be jailed for three years without a fine,aliyeiba kichocheo cha kanisa atafungwa miaka mitatu bila faini,Local News
+2022-05-30,tl83,south rift leaders want tea auction in that area,viongozi wa south rift wataka mnada wa chai katika eneo hilo,Local News
+2022-06-03,tl90,brightermonday launches technology to help employers find the best employees,brightermonday yazindua teknolojia kusaidia waajiri kupata wafanyakazi bora,Local News
+2022-06-06,tl92,mombasa : wiper has until june 9,mombasa : wiper ina hadi juni 9,Local News
+2022-06-08,tl97,mtafaruku sonko being braked to submit receipts to iebc,mtafaruku sonko akipeperushwa kuwasilisha risiti kwa iebc,Local News
+2022-06-25,tl118,company denies allegations of racial discrimination against employees,kampuni yakanusha madai ya ubaguzi wa rangi dhidi ya wafanyakazi,Local News
+2022-07-03,tl127,members of parliament urge parents to protect their children,wabunge wawataka wazazi kuwalinda watoto wao,Local News
+2022-07-14,tl140,coasters are warned not to sell title,coaster waonywa kutouza cheo,Local News
+2022-07-15,tl144,fida encourages voters to elect women to increase their number in parliament,fida yawahimiza wapiga kura kuwachagua wanawake kuongeza idadi yao bungeni,Local News
+2022-07-17,tl145,farmers turn to prayer to face the theft of coffee crops,wakulima wageukia maombi kukabiliana na wizi wa mazao ya kahawa,Local News
+2022-07-27,tl151,their dreams were suddenly cut short on the road,ndoto zao zilikatika ghafla barabarani,Local News
+2021-06-01,tl158,the war of independence and the courts,vita ya uhuru na mahakama,Local News
+2021-06-06,tl188,demu amaniwa casting his in-laws,demu amaniwa akiwatupa wakwe zake,Local News
+2021-06-07,tl196,the court orders the clerk 's post of the nairobi parliament to remain vacant,mahakama yaamuru mkarani wadhifa wa bunge la nairobi kubaki wazi,Local News
+2021-06-08,tl206,the cry of the elders of maumau kirinyaga,kilio cha wazee wa maumau kirinyaga,Local News
+2021-06-08,tl211,nakuru street players receive funding to jack their ambition to cut soccer,wachezaji wa mtaa wa nakuru wapokea ufadhili kutimiza azma yao ya kupunguza soka,Sports news
+2021-06-10,tl223,get rid of acne on the face by using the water of the preache,ondoa acne usoni kwa kutumia maji ya mahubiri,Health news
+2021-06-10,tl225,humans are bad !,binadamu ni wabaya !,Entertainment news
+2021-06-11,tl256,africa should lead the development of kiswahili internationally,afrika inapaswa kuongoza maendeleo ya kiswahili kimataifa,International news
+2021-06-12,tl261,uhuru nyanza projects threaten to dig raila 's political grave .,miradi ya uhuru nyanza yatishia kuchimba kaburi la kisiasa la raila .,Local News
+2021-06-13,tl286,eliminate the cost of buying fatalaiza by making your own natural and fertile fertilizer,kuondoa gharama za kununua fatalaiza kwa kutengeneza mbolea yako ya asili na yenye rutuba,Local News
+2021-06-15,tl295,lamu fishermen claim their parking lots have been seized,wavuvi wa lamu wadai maegesho yao yamekamatwa,Local News
+2021-06-18,tl304,knh doctor who committed suicide to be buried as more information emerges,daktari wa knh aliyejiua kuzikwa huku taarifa zaidi zikiibuka,Local News
+2021-06-19,tl306,kiandutu health center now providing better laboratory services,kituo cha afya kiandutu sasa kinatoa huduma bora za maabara,Health news
+2021-06-22,tl321,the one who tried to kill him by mistake says he was protecting himself,aliyejaribu kumuua kwa makosa anasema alikuwa akijilinda,Local News
+2021-06-22,tl326,argentina defeated paraguay while chile came out equally strong with uruguay in the copa america,argentina iliishinda paraguay huku chile ikitoka kwa nguvu sawa na uruguay katika michuano ya copa america,Sports news
+2021-06-23,tl330,three thousand squatters evicted,mastaa elfu tatu wafukuzwa,Local News
+2021-06-23,tl336,raila kalonzo take their war to mt kenya,raila kalonzo wapeleka vita vyao mt kenya,Local News
+2021-06-23,tl340,germans failed to increase number 2020,wajerumani walishindwa kuongeza idadi 2020,International news
+2021-06-23,tl346,covid-19 : who sasa kuzindua kituo chakuunda chanjo afrika,covid-19 : who sasa kuzindua kituo chakuunda chanjo afrika,Health news
+2021-06-23,tl351,officers search for bandits who killed a street merchant,maafisa wamtafuta majambazi waliomuua mfanyabiashara wa mtaani,Local News
+2021-06-23,tl355,zalia counties delayed allocation of national treasury funds,kaunti za zalia zachelewesha ugawaji wa fedha za hazina ya kitaifa,Financial news
+2021-06-23,tl356,parliamentary constituencies will not be added before the 2022 general election says iebc,maeneo bunge hayataongezwa kabla ya uchaguzi mkuu wa 2022 yasema iebc,Local News
+2021-06-23,tl364,the parliament of uganda is closed for two weeks due to the severity of corona,bunge la uganda limefungwa kwa wiki mbili kutokana na ukali wa corona,Local News
+2021-06-24,tl368,haji should not be afraid of difficulties residents should continue to strive,haji asiogope matatizo wakazi waendelee kujitahidi,Local News
+2021-06-24,tl377,find out who will meet who in a tough euro round of 16 draw,tafuta nani atakutana na nani katika raundi ngumu ya euro ya 16,Sports news
+2021-06-24,tl379,kananu 's 4th female governor sonko akila hu courtini,gavana wa 4 mwanamke wa kananu sonko akila hu courtini,Local News
+2021-06-25,tl393,mombasa county leads with development budgets coastal area,kaunti ya mombasa yaongoza kwa bajeti za maendeleo eneo la pwani,Local News
+2021-06-29,tl418,a man hangs himself outside the office of ardhi thika,mwanamume ajinyonga nje ya ofisi ya ardhi thika,Local News
+2021-07-03,tl432,eacc hits rock in investigation on fake education certificates .,eacc yagonga mwamba katika uchunguzi kuhusu vyeti vya elimu bandia .,Local News
+2021-07-04,tl445,zuma airai the court will evaluate the judgment it gave against him,zuma airai mahakama itatathmini hukumu iliyotoa dhidi yake,Local News
+2021-07-06,tl460,differences emerge regarding the appointment of female officers,tofauti zajitokeza kuhusu uteuzi wa maafisa wanawake,Local News
+2021-07-06,tl462,matiang ' i promises to stop kidnapping in the country,matiang ' i aahidi kukomesha utekaji nyara nchini,Local News
+2021-07-10,tl474,a kenyan who was beaten by a chinese man was paid sh3 million,mkenya aliyepigwa na mchina alilipwa sh3 milioni,International news
+2021-07-11,tl476,police station closed due to corona,kituo cha polisi chafungwa kutokana na corona,Local News
+2021-07-13,tl483,nairobi mt kenya counties listed richest in kenya,kaunti za nairobi mt kenya zaorodheshwa tajiri zaidi kenya,Local News
+2021-07-13,tl485,the quest to shut down illegal steam bonding practices,jitihada za kufunga mazoea haramu ya kuunganisha mvuke,Local News
+2021-07-14,tl488,lsk wants the officer to be given bail before he is caught,lsk yataka afisa huyo apewe dhamana kabla ya kukamatwa,Local News
+2021-07-17,tl498,odm wants registrar to resolve nasa 's financial crisis,odm yamtaka msajili kutatua mzozo wa kifedha wa nasa,Financial news
+2021-07-17,tl500,the doctor wants the organization to return sh18.5m,daktari anataka shirika hilo lirudishe sh18.5m,Local News
+2021-07-18,tl504,when will we learn ?,tutajifunza lini ?,Local News
+2021-07-18,tl507,raila 's sister claims acts are favored,dada yake raila adai vitendo vinapendelewa,Local News
+2021-07-21,tl543,a lecturer who grows sugarcane and uses it to make syrup,mhadhiri anayelima miwa na kuitumia kutengeneza syrup,Entertainment news
+2021-07-22,tl561,magoha launches a program to provide educational assistance to children from poor communities,magoha yazindua mpango wa kutoa msaada wa elimu kwa watoto kutoka jamii maskini,Local News
+2021-07-26,tl582,tourism hits jack as lufthansa launches safari,utalii wamgonga jack huku lufthansa ikizindua safari,Local News
+2021-08-02,tl625,religious leaders accuse politicians of sifting through corona,viongozi wa kidini wasuta wanasiasa kupepeta corona,Local News
+2021-08-03,tl627,itumbi now weeps in court after claiming there was a plot to kill ruto,itumbi sasa analia mahakamani baada ya kudai kulikuwa na njama ya kumuua ruto,Local News
+2021-08-03,tl631,commissioner threatens to close bars violating anti-virus regulations,kamishna atishia kufunga baa zinazokiuka kanuni za kupambana na virusi,Local News
+2021-08-04,tl644,former lamu mayor turns to bodaboda to make a livelihood,meya wa zamani wa lamu ageukia bodaboda kujipatia riziki,Local News
+2021-08-07,tl655,kibicho : we will install gikomba secret cameras to control fire tragedies,kibicho : tutafunga kamera za siri za gikomba kudhibiti majanga ya moto,Local News
+2021-08-09,tl666,more than 50 families lost their homes in the fire tragedy,zaidi ya familia 50 zilipoteza nyumba zao katika mkasa wa moto,Local News
+2021-08-11,tl674,the flood waters of the ngong river will disrupt transportation between the streets of kayaba and hazarina,maji ya mafuriko ya mto ngong yatavuruga usafiri kati ya mitaa ya kayaba na hazarina,Local News
+2021-08-13,tl680,cases of bodaboda motorcycle thefts on the rise,visa vya wizi wa pikipiki bodaboda kuongezeka,Local News
+2021-08-14,tl681,father and children accused of theft of sh.54 million,baba na watoto watuhumiwa kwa wizi wa sh.54 milioni,Local News
+2021-08-15,tl692,residents want the president to avoid inheritance politics,wakazi wanamtaka rais kuepuka siasa za mirathi,Local News
+2021-08-18,tl706,swahili ideology and miko that is not related to religion,itikadi ya kiswahili na miko isiyohusiana na dini,Local News
+2021-08-18,tl713,do n't cry about fuel costs buy an electric car,usilie kuhusu gharama za mafuta nunua gari la umeme,Local News
+2021-08-26,tl746,equity refused to give aydin a sh15 billion loan,equity yakataa kumpa aydin mkopo wa sh15 bilioni,Financial news
+2021-08-26,tl751,six police against murder charges,polisi sita dhidi ya mashtaka ya mauaji,Local News
+2021-08-27,tl754,kianjokoma : arrested police request dpp to be released,kianjokoma : akamatwa polisi waomba dpp aachiwe huru,Local News
+2021-08-28,tl762,tsc gets shield to prevent teachers from engaging in bodaboda,tsc yapata ngao kuzuia walimu kujihusisha na bodaboda,Local News
+2021-08-30,tl775,a waiter in a transport company is accused of raping a university student,mhudumu katika kampuni ya uchukuzi atuhumiwa kumbaka mwanafunzi wa chuo kikuu,Local News
+2021-08-31,tl778,they want compensation for seafarers injuring them,wanataka fidia kwa wasafiri wa baharini kuwajeruhi,Local News
+2021-08-31,tl781,muslims condemn seal 's hiring of 'gay advocate ',waislamu walaani kuajiriwa kwa seal kwa 'wakili wa mashoga ',Local News
+2021-09-01,tl785,'experienced artists ' art gallery gretsa college thika,'wasanii wazoefu ' chuo cha sanaa cha gretsa thika,Entertainment news
+2021-09-04,tl806,lawmakers reject the proposal to reduce the interest on helb loans,wabunge wakataa pendekezo la kupunguza riba ya mikopo ya helb,Financial news
+2021-09-07,tl814,hope factory receives sh30m,kiwanda cha matumaini chapokea sh30m,Local News
+2021-09-07,tl815,waiguru named among 100 best women in africa,waiguru atajwa miongoni mwa wanawake 100 bora barani afrika,Entertainment news
+2021-09-10,tl828,dpp given three days to present evidence in case against three senior police officers,dpp apewa siku tatu kuwasilisha ushahidi kesi dhidi ya maofisa waandamizi watatu wa polisi,Local News
+2021-09-11,tl835,corona contributes to 400000 students interrupting studies,corona yachangia wanafunzi 400000 kukatiza masomo,Local News
+2021-09-12,tl843,jumwa 's case postponed attorney ombeta completes murder case,kesi ya jumwa yaahirishwa wakili ombeta akamilisha kesi ya mauaji,Local News
+2021-09-13,tl851,vaginal ring prevents hiv infection researchers say,pete ya uke huzuia maambukizi ya vvu watafiti wasema,Health news
+2021-09-13,tl853,woman accused of stealing from military stores dfco,mwanamke ashtakiwa kwa kuiba kwenye maduka ya jeshi dfco,Local News
+2021-09-15,tl865,cbc : magoha ignores complaints from parents,cbc : magoha apuuza malalamiko kutoka kwa wazazi,Local News
+2021-09-16,tl871,how the farmer faces the trouble of fresh farm crops deteriorating by adding value,jinsi mkulima anavyokabiliwa na shida ya mazao safi ya kilimo kuzorota kwa kuongeza thamani,Local News
+2021-09-18,tl887,the court now decides the fate of the case about cbc,mahakama sasa yaamua hatima ya kesi kuhusu cbc,Local News
+2021-09-20,tl896,owners of land associated with ruto laikipia are not known,wamiliki wa ardhi inayohusishwa na ruto laikipia hawajulikani,Local News
+2021-09-20,tl898,famine : the government begins to distribute food water,njaa : serikali yaanza kusambaza chakula maji,Local News
+2021-09-21,tl902,the suspect of defilement escapes being burned at camp fire,mtuhumiwa wa uchafu atoroka kuchomwa moto kambini,Local News
+2021-09-22,tl906,magoha vows to defend cbc in status and property,magoha aapa kuitetea cbc kwa hadhi na mali,Local News
+2021-09-23,tl913,the cartoonist of 'taifa leo ' shines,mchora katuni wa 'taifa leo ' ang'ara,Entertainment news
+2021-09-25,tl921,autopsy reveals doctor died of poison,uchunguzi wa maiti wabainisha daktari alikufa kwa sumu,Local News
+2021-09-25,tl923,the court decides obure has a case to answer the sh1.3b saga,mahakama yaamua obure ana kesi ya kujibu sakata la sh1.3b,Local News
+2021-09-29,tl952,azerbaijan asks armenia to stop companies polluting okhchuchay river,azerbaijan yaitaka armenia kuacha makampuni yanayochafua mto okhchuchay,International news
+2021-09-30,tl958,the court orders a tanzanian citizen living in england to be arrested and returned to kenya charged with sh706 million corruption,mahakama yaamuru raia wa tanzania anayeishi uingereza akamatwe na kurejeshwa kenya akishtakiwa kwa ufisadi wa sh706 milioni,Local News
+2021-10-01,tl974,companies should strengthen privacy of customer data,kampuni zinapaswa kuimarisha faragha ya data ya wateja,Local News
+2021-10-01,tl979,the government begins to build an asphalt road to raise the status of othaya town,serikali yaanza kujenga barabara ya lami kupandisha hadhi ya mji wa othaya,Local News
+2021-10-06,tl999,the government should buy endangered livestock,serikali inunue mifugo iliyo hatarini kutoweka,Local News
+2021-10-10,tl1023,new bridge expected to boost kilifi 's economy,daraja jipya linalotarajiwa kukuza uchumi wa kilifi,Local News
+2021-10-19,tl1046,26 people living with disability kiambu receive work equipment from nfdk,watu 26 wanaoishi na ulemavu kiambu wapokea vifaa vya kazi kutoka nfdk,Local News
+2021-10-28,tl1069,corruption greed cause buildings to collapse,rushwa tamaa yasababisha majengo kuporomoka,Local News
+2021-11-01,tl1071,mku and unesco collaborate to achieve the o3 plus health project,mku na unesco kushirikiana kufanikisha mradi wa afya wa o3 plus,Health news
+2021-11-06,tl1080,commissioner orders inspection to prevent contraband goods from tanzania,kamishna aagiza ukaguzi kuzuia bidhaa za contraband kutoka tanzania,Local News
+2021-11-13,tl1088,arrested court maintains ringera,mahakama iliyokamatwa yamshikilia ringera,Local News
+2021-11-15,tl1090,young driver yuvraj aims for new challenge in autocross by stepping up the grade,dereva kijana yuvraj analenga changamoto mpya katika autocross kwa kuongeza daraja,Entertainment news
+2021-11-22,tl1105,residents of thika to benefit greatly from the 20 kilometer road repair in progress,wakazi wa thika kunufaika pakubwa na ukarabati wa barabara kilomita 20 unaoendelea,Local News
+2021-12-02,tl1116,obure links mudavadi to the anglo-leasing scandal,obure anamhusisha mudavadi na kashfa ya anglo-leasing,Local News
+2021-12-17,tl1148,corn milling companies suspend their activities,kampuni za kusaga mahindi zasitisha shughuli zake,Local News
+2021-12-29,tl1161,200 thika youths complete courses that will help them in life,vijana 200 wa thika wakamilisha kozi zitakazowasaidia maishani,Local News
+2021-12-31,tl1163,drugs : magoha aunga students should be tested .,dawa za kulevya : wanafunzi wa magoha aunga wanapaswa kupimwa .,Health news
+2021-04-01,tl1167,coastal residents transferred to the mainland,wakazi wa pwani wahamishiwa bara,Local News
+2021-04-02,tl1173,residents weep bad roads are causing losses,wakazi wakilia barabara mbaya wanasababisha hasara,Local News
+2021-04-04,tl1181,astrazeneca vaccine kills seven people .,chanjo ya astrazeneca yaua watu saba .,Health news
+2021-04-05,tl1185,ruiru food vendors complain,wachuuzi wa chakula ruiru walalamika,Local News
+2021-04-05,tl1189,tecra 's girlfriend threatened the security guard the court was told,mpenzi wa tecra alimtishia mlinzi mahakama iliambiwa,Local News
+2021-04-08,tl1211,two days will separate the death of musician albert gacheru wa maitu and that of his older brother,siku mbili zitatenganisha kifo cha mwanamuziki albert gacheru wa maitu na kile cha kaka yake mkubwa,Local News
+2021-04-10,tl1221,request of lawyers for the acting chief justice,ombi la mawakili kwa kaimu jaji mkuu,Local News
+2021-04-11,tl1228,muslims complain about the high cost of living as the holy month of ramadan approaches,waislamu walalamikia gharama kubwa ya maisha huku mwezi mtukufu wa ramadhan ukikaribia,Local News
+2021-04-12,tl1230,kenyans continue to pressure the imf to stop lending to kenya,wakenya waendelea kuishinikiza imf kuacha kuikopesha kenya,Local News
+2021-04-14,tl1242,corona : oxygen malfunction in hospital kills three,corona : hitilafu ya oksijeni hospitalini yaua watatu,Health news
+2021-04-14,tl1247,mbote says the students challenged him,mbote asema wanafunzi walimpa changamoto,Entertainment news
+2021-04-19,tl1270,online business brings kenyans new investment opportunities .,biashara ya mtandaoni huleta wakenya fursa mpya za uwekezaji .,Financial news
+2021-04-19,tl1271,holding a referendum without a new voter register is not right – gladys boss,kufanya kura ya maoni bila daftari jipya la wapiga kura sio sahihi - gladys boss,Local News
+2021-04-24,tl1290,i will call the president after being informed of his condition and his wife - yano,nitampigia simu rais baada ya kufahamishwa hali yake na mkewe - yano,Local News
+2021-04-25,tl1298,kemsa : murathe plans to defend himself before the committee .,kemsa : murathe anapanga kujitetea mbele ya kamati .,Local News
+2021-05-01,tl1326,ig forms task force to investigate four murders,ig aunda kikosi kazi kuchunguza mauaji manne,Local News
+2021-05-04,tl1333,bensouda is now linking ruto with a new case,bensouda sasa anamhusisha ruto na kesi mpya,Local News
+2021-05-04,tl1337,edit : freedom of information be fully protected,hariri : uhuru wa habari ulindwe kikamilifu,Local News
+2021-05-05,tl1344,developing people 's health is the source of building a better nation,kuendeleza afya za watu ndio chanzo cha kujenga taifa bora,Health news
+2021-05-06,tl1348,president kenyatta warns ministers to be careless,rais kenyatta awaonya mawaziri kuwa wazembe,Local News
+2021-05-06,tl1350,ghost mulee stuck in india after kenya suspended flights,ghost mulee akwama india baada ya kenya kusitisha safari za ndege,International news
+2021-05-12,tl1379,the rain causes floods and damages the residents,mvua hiyo husababisha mafuriko na kuharibu wakazi,Local News
+2021-05-16,tl1407,knut : walalama sossion has destroyed the party,knut : walalama sossion amekiangamiza chama,Local News
+2021-05-16,tl1408,fear of new spread regularly control corona if ignored,hofu ya kuenea kwa virusi vipya mara kwa mara kudhibiti corona iwapo itapuuzwa,Local News
+2021-05-17,tl1412,uhuru is scheduled to visit the coast after raila,uhuru anatarajiwa kuzuru pwani baada ya raila,Local News
+2021-05-22,tl1441,gicheru compares bensouda 's office with a powerless witch,gicheru alinganisha ofisi ya bensouda na mchawi asiye na nguvu,Local News
+2021-05-30,tl1463,call on the government to provide sodo for free,wito kwa serikali kutoa sodo bure,Local News
+2021-02-01,tl1472,bodaboda kicking donkey lamu,bodaboda yampiga teke punda lamu,Local News
+2021-02-02,tl1483,women 's treasures youth connect,hazina za wanawake vijana waunganisha,Local News
+2021-02-03,tl1488,sonko is in danger of being accused of terrorism,sonko yuko hatarini kutuhumiwa kwa ugaidi,Local News
+2021-02-05,tl1493,preachers express their fears about political upheaval,wahubiri waelezea hofu yao kuhusu machafuko ya kisiasa,Local News
+2021-02-05,tl1499,lamu : governor twaha appoints himself to serve as minister,lamu : gavana twaha ajiteua kuhudumu kuwa waziri,Local News
+2021-02-09,tl1521,omanga and his colleagues get relief,omanga na wenzake wapata afueni,Local News
+2021-02-14,tl1543,epra : atwoli wants relevant ministries to stand up for low-income citizens,epra : atwoli ataka wizara husika kusimamia wananchi wa kipato cha chini,Local News
+2021-02-15,tl1547,fear students do n't wear masks at school,hofu wanafunzi hawavai barakoa shuleni,Local News
+2021-02-15,tl1550,maangi and osoro arrested in nyachae funeral,maangi na osoro wakamatwa katika mazishi ya nyachae,Local News
+2021-02-15,tl1557,bbi : councilors want session with uhuru ruto,bbi : madiwani wanataka kikao na uhuru ruto,Local News
+2021-02-20,tl1583,controversy over the appointment of mwende mwinzi continues to unfold,utata kuhusu uteuzi wa mwende mwinzi waendelea kujitokeza,Local News
+2021-02-22,tl1592,thika-gatuanyaga road to be completed within 30 months,barabara ya thika-gatuanyaga kukamilika ndani ya miezi 30,Local News
+2021-02-22,tl1596,the chief denies two politicians the opportunity to use the microphone to address the funeral,chifu awanyima wanasiasa wawili fursa ya kutumia kipaza sauti kuhutubia mazishi,Local News
+2021-02-22,tl1599,citizens of burundi and property fraudsters in lebanon sh7m,raia wa burundi na walaghai mali lebanon sh7m,Local News
+2021-02-24,tl1604,mwilu alalamikia a bunch of court cases,mwilu alalamikia kundi la kesi mahakamani,Local News
+2021-02-24,tl1608,the construction project of an education and training center to combat extremism and terrorism launched in lamu,mradi wa ujenzi wa kituo cha elimu na mafunzo cha kupambana na itikadi kali na ugaidi wazinduliwa lamu,Local News
+2021-02-26,tl1615,faki wants bbi articles in kiswahili,faki ataka makala za bbi kwa kiswahili,Local News
+2021-02-26,tl1617,member of parliament encourages young people and ruiru businessmen to form groups to get government loans,mbunge ahimiza vijana na wafanyabiashara wa ruiru kuunda vikundi ili kupata mikopo ya serikali,Financial news
+2021-03-01,tl1627,helicopters and luxury cars leaders fighting this week in the election,helikopta na viongozi wa magari ya kifahari wanaopigana wiki hii katika uchaguzi,Local News
+2021-03-04,tl1656,a teacher cuts his mate fighting over a college girl,mwalimu amkata mwenzake akipigana juu ya msichana wa chuo,Local News
+2021-03-04,tl1658,sonko suffers from brain and heart diseases he ca n't continue with the case - court,sonko anasumbuliwa na magonjwa ya ubongo na moyo hawezi kuendelea na kesi - mahakama,Local News
+2021-03-05,tl1662,we are arrested because a child with vision was born in the city - koech,unakamatwa kwa sababu mtoto mwenye maono alizaliwa mjini - koech,Local News
+2021-03-06,tl1668,10 members of parliament called by ncic about the mess,wabunge 10 walioitwa na ncic kuhusu fujo,Local News
+2021-03-07,tl1671,county begins reimbursement to buxton residents,kaunti yaanza kulipwa kwa wakazi wa buxton,Local News
+2021-03-08,tl1674,ig to take action against police officers who fired tear gas at mp korir - ncic .,ig kuwachukulia hatua maafisa wa polisi waliofyatua gesi ya kutoa machozi kwa mbunge korir - ncic .,Local News
+2021-03-11,tl1686,maragua member of parliament 's assistant claims he attacked kenya power employee with 'good intentions to protect social interests ',mbunge wa maragua adai alimshambulia mfanyakazi wa nguvu ya kenya kwa 'nia njema ya kulinda maslahi ya jamii ',Local News
+2021-03-12,tl1703,a member of parliament gets in trouble for wanting to kill unmarried lovers who appear at funerals to ask for property,mbunge apata shida kwa kutaka kuua wapenzi ambao hawajaolewa wanaojitokeza kwenye mazishi kuomba mali,Local News
+2021-03-15,tl1715,residents condemn police torturing other mothers,wakazi walaani polisi kuwatesa kina mama wengine,Local News
+2021-03-16,tl1732,lawyers escaping sonko to 'face his situation ',mawakili wamtoroka sonko 'kukabiliana na hali yake ',Local News
+2021-03-17,tl1733,1.4 million kenyans face hunger - report .,wakenya milioni 1.4 wanakabiliwa na njaa - ripoti .,Local News
+2021-03-18,tl1741,oil : kenyans flee to tanzania,mafuta : wakenya wakimbilia tanzania,Local News
+2021-03-19,tl1748,samia luhu to take the steering of tanzania for the remaining period,samia luhu kuchukua uongozi wa tanzania kwa kipindi kilichobaki,Local News
+2021-03-19,tl1750,thieves cut the steel of the makupa bridge,wezi wakata chuma cha daraja la makupa,Local News
+2021-03-23,tl1771,the president of zanzibar promised the president solutions and cooperation to develop the tanzanian dream,rais wa zanzibar alimuahidi rais suluhisho na ushirikiano katika kuendeleza ndoto ya tanzania,Local News
+2021-03-29,tl1802,deputy minister aishagaya the third sector depriving young people of job opportunities,naibu waziri aishagaya sekta ya tatu kuwanyima vijana fursa za ajira,Local News
+2021-03-29,tl1804,the government warns those who increase fares arbitrarily,serikali yawaonya wanaoongeza nauli kiholela,Local News
+2021-03-30,tl1809,sarah obama 's mother is buried in a ceremony attended by few,mama yake sarah obama azikwa katika sherehe iliyohudhuriwa na wachache,International news
+2021-03-30,tl1810,nike comes to court to sue the company about 'satanic shoes ',nike yaja mahakamani kuishtaki kampuni kuhusu 'viatu vya shetani ',Sports news

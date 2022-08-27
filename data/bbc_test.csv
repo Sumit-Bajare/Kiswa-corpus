@@ -1,0 +1,67 @@
+date,id,news_heading_eng,news_heading_swa,news_type
+2019-09-01,bbc22,kenya : a school that used to be a british prison camp,kenya : shule iliyokuwa kambi ya magereza ya uingereza,Local News
+2019-09-05,bbc25,free education is approved in drc for the first time in its history,elimu bila malipo imeidhinishwa nchini drc kwa mara ya kwanza katika historia yake,Local News
+2019-09-17,bbc30,a foreign entrepreneur was found guilty of defrauding rwandans,mjasiriamali wa kigeni alipatikana na hatia ya kuwalaghai wanyarwanda,Local News
+2019-09-23,bbc34,7 students die after falling from the roof of a classroom in kenya,wanafunzi 7 wafariki baada ya kuangukiwa na paa la darasa nchini kenya,Local News
+2019-10-12,bbc56,ineos challenge 1:59 : can you compete with eliud kipchoge ?,ineos challenge 1:59 : je unaweza kushindana na eliud kipchoge ?,Sports news
+2019-10-20,bbc64,kenyan athlete eliud kipchoge has been awarded the national hero award,mwanariadha wa kenya eliud kipchoge ametunukiwa tuzo ya shujaa wa taifa,Sports news
+2019-10-25,bbc66,government workers are starting to embrace a new style of clothing in kenya - what is their goal ?,wafanyakazi wa serikali wanaanza kukumbatia mtindo mpya wa mavazi nchini kenya - lengo lao ni nini ?,Local News
+2019-11-17,bbc80,gaining weight is a challenge faced by many women after giving birth,kuongezeka uzito ni changamoto inayowakabili wanawake wengi baada ya kujifungua,Health news
+2019-11-18,bbc81,those who obtained higher education on loan in kenya are in doubt,wale waliopata elimu ya juu kwa mkopo nchini kenya wako shakani,Local News
+2019-11-20,bbc83,amos wako : ' i was surprised to hear the news of us sanctions against me while i was traveling in uganda ',amos wako : 'nilishangaa kusikia habari za vikwazo vya marekani dhidi yangu nilipokuwa nikisafiri uganda ',Local News
+2019-11-28,bbc92,tanzania 's minister of foreign affairs paramagamba kabudi asked kenyans to follow the example of tanzanians,waziri wa mambo ya nje wa tanzania paramagamba kabudi aliwataka wakenya kuiga mfano wa watanzania,Local News
+2020-01-25,bbc137,osprey : the bird that flew from finland to kenya dies,osprey : ndege aliyeruka kutoka finland hadi kenya hufa,Local News
+2020-01-29,bbc140,a war-torn photographer believes he will find his parents after 20 years,mpiga picha aliyekumbwa na vita anaamini atawapata wazazi wake baada ya miaka 20,Local News
+2020-02-05,bbc149,coronavirus : kenya to bring home students who are in the isolated city of wuhan,coronavirus : kenya kuwarudisha nyumbani wanafunzi ambao wako katika jiji la pekee la wuhan,Local News
+2020-02-07,bbc151,uhuru kenyatta : talks with the us will not affect the free trade agreement in africa,uhuru kenyatta : mazungumzo na marekani hayataathiri mkataba wa biashara huria barani afrika,International news
+2020-02-11,bbc157,daniel toroitich arap moi : thousands of kenyans and different leaders attend the funeral service at nyayo stadium in nairobi,daniel toroitich arap moi : maelfu ya wakenya na viongozi tofauti wahudhuria ibada ya wafu katika uwanja wa nyayo jijini nairobi .,International news
+2020-02-12,bbc158,a mother of 4 who searched for love up and down before being heartbroken,mama wa watoto 4 ambaye alitafuta mapenzi juu chini kabla ya kuvunjika moyo,Local News
+2020-02-14,bbc161,invasion of locusts : united nations warns of famine in ethiopia kenya uganda tanzania and somalia,uvamizi wa nzige : umoja wa mataifa waonya kuhusu njaa nchini ethiopia kenya uganda tanzania na somalia,International news
+2020-03-22,bbc196,coronavirus : kenya announces nine more cases of corona disease,coronavirus : kenya yatangaza visa vingine tisa vya ugonjwa wa corona,Local News
+2020-03-23,bbc197,coronavirus : 'what happened to me in the quarantine ward in kenya ',coronavirus : 'ni nini kilinipata katika wadi ya karantini nchini kenya ',Local News
+2020-04-02,bbc204,corona virus : 12 more patients have been diagnosed with the virus in kenya bringing the number to 122,virusi vya corona : wagonjwa 12 zaidi wamethibitishwa kuwa na virusi nchini kenya na kufanya idadi kufikia 122,Local News
+2020-04-11,bbc218,corona virus : the number of deaths in kenya reaches four people,virusi vya corona : idadi ya vifo nchini kenya yafikia watu wanne,Local News
+2020-04-15,bbc223,ken walibora : the famous kenyan novelist famous for the book siku njema has died,ken walibora : mtunzi mashuhuri wa riwaya mkenya maarufu kwa kitabu siku njema amefariki dunia,International news
+2020-05-02,bbc247,corona virus : 24 people were diagnosed with corona infection in one day in kenya,virusi vya corona : watu 24 walipatikana na maambukizi ya corona kwa siku moja nchini kenya,Local News
+2020-06-06,bbc295,corona virus ; kenyans take to the internet to show their expectations,virusi vya korona ; wakenya hutumia mtandao kuonyesha matarajio yao,Local News
+2020-06-17,bbc309,a missionary confesses to sexual crimes in an orphanage in kenya,mmisionari anakiri uhalifu wa kingono katika kituo cha watoto yatima nchini kenya,Local News
+2020-07-08,bbc321,bbc rose : ' i was a prostitute when i was married ',bbc rose : 'nilikuwa kahaba nilipoolewa ',Local News
+2020-07-13,bbc324,the family of the kenyan journalist detained in ethiopia has no information about him,familia ya mwanahabari huyo wa kenya aliyezuiliwa nchini ethiopia haina habari zozote kumhusu,International news
+2020-07-15,bbc326,bbc rose : the story of a woman who was raped by her mother 's boyfriend as a child,bbc rose : kisa cha mwanamke ambaye alibakwa na mpenzi wa mamake akiwa mtoto,Local News
+2020-07-27,bbc336,tundu lissu arrives in tanzania,tundu lissu awasili tanzania,Local News
+2020-08-01,bbc340,corona virus : the culture of the bukusu people of kenya of circumcision was affected by corona,virusi vya corona : utamaduni wa watu wa bukusu wa kenya wa tohara uliathiriwa na corona,Local News
+2020-08-24,bbc355,the supposed oldest person dies,mtu anayedhaniwa kuwa mzee zaidi hufa,Local News
+2020-08-25,bbc356,tanzanian presidential candidates return the form to the nec,nan,Local News
+2020-09-28,bbc383,how are kenyan parents prepared if schools open ?,je wazazi wa kenya wanatayarishwa vipi ikiwa shule zitafunguliwa ?,Local News
+2020-09-29,bbc384,taking care of my mother who is terminally ill,nikimtunza mama yangu ambaye ni mgonjwa mahututi,Local News
+2020-10-14,bbc393,bbc rose : 'how i fell from manager to prisoner ',bbc rose : 'jinsi nilivyoanguka kutoka kwa meneja hadi mfungwa ',Local News
+2020-12-14,bbc432,president tshisekedi announces the formation of a new government,rais tshisekedi atangaza kuundwa kwa serikali mpya,Local News
+2020-12-24,bbc445,brides who loved each other despite their status in kenya,maharusi waliopendana licha ya hali zao nchini kenya,Entertainment news
+2021-01-12,bbc448,two ministers of malawi died due to corona,mawaziri wawili wa malawi walifariki kutokana na corona,Local News
+2021-02-13,bbc459,corona virus : how corona affects swahili life and culture,virusi vya corona : jinsi corona inavyoathiri maisha na utamaduni wa waswahili,Local News
+2021-03-29,bbc474,mike sonko : the rise and fall of the former governor of kenya 's capital nairobi,mike sonko : kuinuka na kuanguka kwa gavana wa zamani wa mji mkuu wa kenya nairobi,Local News
+2021-03-31,bbc476,corona virus : different types of vaccines offered in kenya divide the haves and the sleepers,virusi vya corona : aina tofauti za chanjo zinazotolewa nchini kenya zinagawanya walio nacho na wanaolala,Health news
+2021-04-08,bbc485,tanzania gives an explanation about its corn being banned in kenya,tanzania yatoa ufafanuzi kuhusu mahindi yake kupigwa marufuku nchini kenya,Local News
+2022-06-04,bbc497,terrorism in somalia : know the top five most wanted terrorists in the world,ugaidi nchini somalia : jua magaidi watano bora wanaosakwa zaidi duniani,Local News
+2022-06-05,bbc498,raila odinga : the kenya electoral commission iebc has confirmed the presidential candidate on the unity declaration ticket,raila odinga : tume ya uchaguzi ya kenya iebc imethibitisha mgombea urais kwa tiketi ya azimio la umoja,Local News
+2022-06-25,bbc507,'my wheelchair wo n't stop me from racing ','kiti changu cha magurudumu hakitanizuia kukimbia ',Local News
+2021-05-01,bbc523,corona virus : kenya lifts the ban on people from abroad,coronavirus : kenya yaondoa marufuku kwa watu kutoka nje ya nchi,Local News
+2021-05-04,bbc526,tanzanian president samia suluhu hassan on a visit to kenya,rais samia kuzuru kenya : biashara diplomasia na jumuiya ya afrika mashariki zipewe kipaumbele,Local News
+2021-05-09,bbc533,a child 's grave from 78000 years ago reveals the burials that took place at that time,kaburi la mtoto la miaka 78000 iliyopita linafichua mazishi yaliyofanyika wakati huo .,Local News
+2021-06-13,bbc543,albinism day : people with skin disabilities still experience many challenges in life,siku ya ualbino : watu wenye ulemavu wa ngozi bado wanapitia changamoto nyingi maishani,Health news
+2021-07-28,bbc559,'catch up ' : a program that gives hope to girls who have dropped out of school in kenya,catch up ' : mpango unaowapa matumaini wasichana ambao wameacha shule nchini kenya,Local News
+2021-08-02,bbc561,1998 bombings : three main suspects involved in attacks on kenya and tanzania,milipuko ya mabomu ya 1998 : washukiwa wakuu watatu waliohusika katika mashambulizi nchini kenya na tanzania,Local News
+2021-08-20,bbc568,find out how the bbi proposals will change the governance system in kenya,jua jinsi mapendekezo ya bbi yatabadilisha mfumo wa utawala nchini kenya,Local News
+2021-08-28,bbc575,while tanzania and kenya are trying to write a constitution there are countries that do not have a constitution to write,wakati tanzania na kenya zinajaribu kuandika katiba kuna nchi ambazo hazina katiba ya kuandika,Local News
+2021-10-08,bbc582,citizens of tanzania kenya and uganda who have been vaccinated will be allowed to enter the uk from monday without self-quarantine,raia wa tanzania kenya na uganda ambao wamechanjwa wataruhusiwa kuingia uingereza kuanzia jumatatu bila kujiweka karantini .,International news
+2021-10-12,bbc584,the icj rejects kenya 's case in the maritime border dispute with somalia,icj inakataa kesi ya kenya katika mzozo wa mpaka wa baharini na somalia,International news
+2021-12-09,bbc593,the united states places tanzania in the list of dangerous countries to travel to,marekani yaiweka tanzania katika orodha ya nchi hatari kusafiri,International news
+2022-01-02,bbc603,charles njonjo : the first kenyan attorney general dies,charles njonjo : mwanasheria mkuu wa kwanza wa kenya afariki,Local News
+2022-03-01,bbc625,get to know the girl who owns a famous sewing factory in kenya,mfahamu msichana anayemiliki kiwanda maarufu cha ushonaji nchini kenya,Local News
+2022-03-07,bbc627,elections kenya 2022 : key areas that will determine the winner of the kenyan presidential election,uchaguzi kenya 2022 : maeneo muhimu yatakayoamua mshindi wa uchaguzi wa urais wa kenya,Local News
+2022-03-10,bbc631,boda-boda : the constant menace of motorcycle taxis boda bodas in kenya,boda-boda : tishio la mara kwa mara la teksi za pikipiki boda boda nchini kenya,Local News
+2022-03-28,bbc638,elections kenya 2022 : is the high cost of running elections in kenya fair ?,uchaguzi kenya 2022 : je gharama ya juu ya kuendesha uchaguzi nchini kenya ni ya haki ?,Local News
+2022-04-13,bbc644,bbc rose : claudette who estimates she weighs more than 200kg lives with obesity,bbc rose : claudette ambaye anakadiria kuwa na uzani wa zaidi ya kilo 200 anaishi na unene uliokithiri,Health news
+2022-04-22,bbc647,mwai kibaki : the funeral schedule of the former first opposition president in kenya has been announced,mwai kibaki : ratiba ya mazishi ya aliyekuwa rais wa kwanza wa upinzani nchini kenya imetangazwa,Local News
+2022-04-25,bbc650,damaris muthee mutua : mutua 's career was 'in full swing ' before the murder,damaris muthee mutua : kazi ya mutua ilikuwa 'imepamba moto ' kabla ya mauaji,Local News
+2022-05-01,bbc653,russia launched a new offensive in eastern ukraine,urusi ilianzisha mashambulizi mapya mashariki mwa ukraine,International news
